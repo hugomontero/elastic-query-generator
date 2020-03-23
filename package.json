@@ -1,0 +1,22 @@
+{
+  "name": "elastic-query-generator",
+  "version": "1.0.0",
+  "description": "Convert a JSON format into to a complex elastic query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomontero/elastic-query-generator.git"
+  },
+  "keywords": [
+    "elastic"
+  ],
+  "author": "hugo.monterio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugomontero/elastic-query-generator/issues"
+  },
+  "homepage": "https://github.com/hugomontero/elastic-query-generator#readme"
+}
